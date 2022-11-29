@@ -27,7 +27,3 @@ regenerate: true
 {% endfor %}
     </ul>
 </div>
-
-## 수정해보기
-
-테스트 입니다.
